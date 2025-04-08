@@ -1,2 +1,2 @@
 # Penetration-Test-Reports
-My own penetration test reports of mainly Hack The Box machines.
+My own penetration test reports of Hack The Box machines.
